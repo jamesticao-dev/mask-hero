@@ -16,7 +16,10 @@ Preview: https://jemzdev.itch.io/mask-hero
 ### 🖥️ Platforms
 - Windows (PC)
 - MacOS
-- 🛠️ Tools & Technologies
+
+---
+
+### 🛠️ Tools & Technologies
 - Engine: Unity (C#)
 - Languages: Simple English
 - Development Time: 48 Hours
